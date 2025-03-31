@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jesreid/jesreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jessica! I'm currently studying Computer Science and learning GitHub. I love traveling and spending time with friends and family.
 
-Here are some ideas to get you started:
+## Interests
+- Reading
+- Journaling or creative writing
+- Interior decorating
+- Fashion and personal style
+- DIY crafts and home projects
+- Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> FUN FACT
+I can quote almost every line from Dreams Girls.
